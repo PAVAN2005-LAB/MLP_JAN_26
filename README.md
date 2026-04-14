@@ -22,6 +22,7 @@ The weekly notebooks and datasets are organized systematically by week.
 Notebooks and training/testing datasets for the course Kaggle competitions.
 * **Kaggle Competition 1**: `k1_24f1001768-pavan-kumar-yadav.ipynb`, `ka1_train.csv`, `ka1_test.csv`
 * **Kaggle Competition 2**: `k2_24f1001768-pavan-kumar-yadav.ipynb`, `ka2_train.csv`, `ka2_test.csv`
+* **Kaggle Competition 3**: `ka3_train.csv`, `ka3_test.csv`
 
 ### Assessments & Other Notebooks
 * `oppe1_26_t1.ipynb`
