@@ -17,6 +17,9 @@ The weekly notebooks and datasets are organized systematically by week.
 * `Week_6_GA.ipynb`
 * `Week_7_GA.ipynb`
 * `Week_8_1_GA.ipynb` & `Week_8_2_GA.ipynb`
+* `Week_9_GA.ipynb`
+* `Week_10_GA.ipynb`
+* `Week_11_GA.ipynb`
 
 ### Kaggle Competitions
 Notebooks and training/testing datasets for the course Kaggle competitions.
